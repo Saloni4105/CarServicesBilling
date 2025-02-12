@@ -20,7 +20,18 @@ This is my First Java Project. The car Garage Billing System allows a customer t
  
   ##How to run
   **Clone the repository:**
-  1. git clone
+  1. git clone https://github.com/Saloni4105/CarServicesBilling
   2. cd carGarageBillingSystem
   3. javac*.java
   4. java Main
+
+
+![Main menu](https://github.com/user-attachments/assets/64f220ec-888e-4712-ba58-6d4f53932269)
+**Main menu**
+![AddCustomer ](https://github.com/user-attachments/assets/78b291a8-a73a-4b98-ae23-fa1de52412a4) 
+**Add customer details**
+![DisplayServices](https://github.com/user-attachments/assets/362e889e-034f-4580-a87e-766117f49012)
+**Display services**
+![InvoiceGeneration](https://github.com/user-attachments/assets/e55cf0f0-b82f-4655-8440-e2b5f417cdd1)
+**Invoice generation**
+  
